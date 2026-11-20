@@ -1,8 +1,11 @@
 [
-  { "name": "test-go-1",  "repo": "https://github.com/Castux/hive-ladder-test-go",  "members": ["castux"] },
-  { "name": "test-go-2",  "repo": "https://github.com/Castux/hive-ladder-test-go",  "members": ["castux"] },
-  { "name": "test-go-3",  "repo": "https://github.com/Castux/hive-ladder-test-go",  "members": ["castux"] },
-  { "name": "test-lua-1", "repo": "https://github.com/Castux/hive-ladder-test-lua", "members": ["castux"] },
-  { "name": "test-lua-2", "repo": "https://github.com/Castux/hive-ladder-test-lua", "members": ["castux"] },
-  { "name": "test-lua-3", "repo": "https://github.com/Castux/hive-ladder-test-lua", "members": ["castux"] }
+  {"name": "test-go-1", "repo": "https://github.com/Castux/hive-ladder-test-go", "members": ["castux"]},
+  {"name": "test-go-2", "repo": "https://github.com/Castux/hive-ladder-test-go", "members": ["castux"]},
+  {"name": "test-go-3", "repo": "https://github.com/Castux/hive-ladder-test-go", "members": ["castux"]},
+  {"name": "test-lua-1", "repo": "https://github.com/Castux/hive-ladder-test-lua", "members": ["castux"]},
+  {"name": "test-lua-2", "repo": "https://github.com/Castux/hive-ladder-test-lua", "members": ["castux"]},
+  {"name": "test-lua-3", "repo": "https://github.com/Castux/hive-ladder-test-lua", "members": ["castux"]},
+  {"name": "test-allround", "repo": "https://github.com/Castux/hive-ladder-test-allround", "members": ["castux"]},
+  {"name": "test-raider", "repo": "https://github.com/Castux/hive-ladder-test-raider", "members": ["castux"]},
+  {"name": "test-saboteur", "repo": "https://github.com/Castux/hive-ladder-test-saboteur", "members": ["castux"]}
 ]
